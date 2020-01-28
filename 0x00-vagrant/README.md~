@@ -1,0 +1,1 @@
+This is a directory inside holberton's first directory.
