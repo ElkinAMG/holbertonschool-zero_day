@@ -1,2 +1,2 @@
-This file is mandatory in all Holberton School projects
+HOLBERTON SCHOOL README!
 # holbertonschool-zero_day
