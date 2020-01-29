@@ -1,1 +1,1 @@
-This is my project using Git like a professional ;)
+I've been using GIT like a professional hehe
